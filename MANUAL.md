@@ -11,6 +11,9 @@ A test harness that attacks an AI agent's defences with disguised prompt injecti
 ## 3. Demo
 Results chart: `docs/results.png`. `python examples/run.py` regenerates `examples/out/results.csv`, `results.png` and `summary.md`.
 
+![Real test run, captured 21 Nov 2026](docs/test-run.svg)
+*Real output from this repository's own tests, captured 21 Nov 2026.*
+
 ## 4. Run it yourself
 **Prerequisites:** Python 3.
 
