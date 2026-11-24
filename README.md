@@ -4,7 +4,7 @@
 > **Measuring prompt-injection defences, not asserting them — attack-success and utility together.**  
 > **Result:** 8 tests; attack-success-rate 100% → 14% across a layered defence, with benign-pass-rate reported.  
 > **Reproduce:** `pip install -e .[test] && pytest -q   # python examples/run.py`  
-> ![CI](https://github.com/fhionnghaile/llm-injection-eval/actions/workflows/ci.yml/badge.svg)
+> ![CI](https://github.com/fhionnghaile/llm-injection-eval/actions/workflows/ci.yml/badge.svg) [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/Fhionnghaile/llm-injection-eval/badge)](https://scorecard.dev/viewer/?uri=github.com/Fhionnghaile/llm-injection-eval)
 >
 > **What this is worth:** Answers the board's AI-security question with a measurement and a named residual, not reassurance.
 
