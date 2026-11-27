@@ -6,7 +6,7 @@
 > **Reproduce:** `pip install -e .[test] && pytest -q   # python examples/run.py`  
 > ![CI](https://github.com/fhionnghaile/llm-injection-eval/actions/workflows/ci.yml/badge.svg) [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/Fhionnghaile/llm-injection-eval/badge)](https://scorecard.dev/viewer/?uri=github.com/Fhionnghaile/llm-injection-eval)
 >
-> **What this is worth:** Answers the board's AI-security question with a measurement and a named residual, not reassurance.
+> **What this is worth:** Attack success falls from 100% to 14% under the layered defence while 90% of legitimate requests still pass, and the single residual attack class is named, with its architectural fix.
 
 
 **Claim.** You can't talk your way to "we're safe from prompt injection" — you measure it.
